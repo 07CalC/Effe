@@ -22,7 +22,7 @@ export const Why = () => {
             </div>
           </div>
           <div className="lg:flex w-svw justify-center items-center lg:justify-start lg:items-start">
-            <div className="mt-16 lg:flex lg:self-start lg:mr-16 justify-center align-middle lg:justify-start items-center">
+            <div className="mt-16 lg:flex lg:self-start lg:ml-16 justify-center align-middle lg:justify-start items-center">
             <img src="https://www.ecelliitk.org/ca/img/acquire%20skills.png" className="lg:hidden" />
               <div className="flex flex-col rounded-lg h-auto bg-[#000c1e] lg:w-[30rem] justify-center items-center">
                 <p className="lg:text-2xl text-xl font-bold underline text-center text-blue-300">
@@ -55,7 +55,7 @@ export const Why = () => {
             </div>
           </div>
           <div className="lg:flex w-svw justify-center items-center lg:justify-start lg:items-start">
-            <div className="mt-16 lg:flex lg:self-start lg:mr-16 justify-center align-middle lg:justify-start items-center">
+            <div className="mt-16 lg:flex lg:self-start lg:ml-16 justify-center align-middle lg:justify-start items-center">
             <img src="https://www.ecelliitk.org/ca/img/organise.png" className="lg:hidden"/>
               <div className="flex flex-col rounded-lg h-auto bg-[#000c1e] lg:w-[30rem] justify-center items-center">
                 <p className="lg:text-2xl text-xl font-bold underline text-center text-blue-300">
