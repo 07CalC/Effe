@@ -5,7 +5,7 @@ export const Hero = () => {
         <div
         id="Home"
         className="h-svh w-svw bg-fixed bg-center bg-cover bg-opacity-35"
-        style={{ backgroundImage: `url("./bg.jpg")` }}
+        style={{ backgroundImage: `url("https://github.com/vinayakmaheshwari/Effe/blob/main/bg.jpg")` }}
       >
         {/* <div className="h-24">
            </div> */}
